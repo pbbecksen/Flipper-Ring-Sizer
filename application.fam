@@ -1,0 +1,12 @@
+App(
+    appid="ring_sizer",
+    name="Ring Sizer",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="ring_sizer_app",
+    requires=["gui"],
+    stack_size=4096,
+    fap_category="Tools",
+    fap_version="0.9",
+    fap_icon="images/ring_sizer.png",
+    fap_author="ChatGPT",
+)
