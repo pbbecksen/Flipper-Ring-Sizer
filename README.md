@@ -12,15 +12,6 @@
 
 ---
 
-## 📸 Screenshots
-
-| Measure Mode | Display Mode |
-|:---:|:---:|
-| | |
-| *Real-time sizing* | *Unit conversion* |
-
----
-
 ## ✨ Features
 
 * **Physical Measurement:** Place a ring directly on the screen to measure its diameter and corresponding size.
@@ -42,9 +33,6 @@ Use this mode to find the size of a physical ring you possess.
     * **Diameter (mm)**
     * **US Size**
     * **EU Size**
-
-> **Screenshot Tip:** *Add a photo here showing a ring sitting on the Flipper screen.*
-> `![Ring on Screen](url_to_your_image)`
 
 ### 2. Display Ring (Reference & Conversion)
 Use this mode if you know a size and want to see the measurements or convert between units.
